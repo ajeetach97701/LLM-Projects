@@ -1,0 +1,1 @@
+embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")

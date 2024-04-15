@@ -1,0 +1,10 @@
+langchain
+langchain_community
+bs4
+pypdf
+python-dotenv
+langchain-google-genai
+ipykernel
+pandas
+ipywidgets
+chromadb
