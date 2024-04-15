@@ -33,3 +33,5 @@ pyarrow
 pinecone-client
 transformers
 langchain_anthropic
+numexpr
+langcorn
