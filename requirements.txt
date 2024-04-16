@@ -34,4 +34,11 @@ pinecone-client
 transformers
 langchain_anthropic
 numexpr
-langcorn
+langsmith
+
+SQLAlchemy
+python-jose
+passlib
+python-multipart
+
+
